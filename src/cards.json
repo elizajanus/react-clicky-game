@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Special Agent Dale Cooper",
+    "image": "https://3ojv801zx6ub12ssdy326u7b-wpengine.netdna-ssl.com/wp-content/uploads/2017/05/dale-cooper-1-750x400.jpg",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "name": "The Giant",
+    "image": "https://i0.wp.com/25yearslatersite.com/wp-content/uploads/2018/05/397594.jpg-r_1280_720-f_jpg-q_x-xxyxx.jpg?resize=1080%2C720&ssl=1",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "name": "Man From Another Place",
+    "image": "https://cdn.vox-cdn.com/thumbor/0DiJ7X4eNcDmma7IQ_c1YEXyDJM=/0x17:445x314/1200x800/filters:focal(0x17:445x314)/cdn.vox-cdn.com/uploads/chorus_image/image/47336624/man.0.0.jpg",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "name": "Bob",
+    "image": "https://nyoobserver.files.wordpress.com/2015/03/bobbay.png?w=635&h=446",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "name": "Mr. C",
+    "image": "https://i1.wp.com/68.media.tumblr.com/9533bf70c92adcf85e51a2161af6a97c/tumblr_ovrrqca5dL1vrzc1uo1_1280.jpg?ssl=1",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "name": "Major Briggs",
+    "image": "https://vignette.wikia.nocookie.net/twinpeaks/images/8/81/Major_Garland_Briggs.jpg/revision/latest?cb=20111030055447",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "name": "Freddie Sykes",
+    "image": "https://i1.wp.com/25yearslatersite.com/wp-content/uploads/2017/09/img_9787.jpg?resize=525%2C350&ssl=1",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "name": "One Armed Man",
+    "image": "http://www.indiewire.com/wp-content/uploads/2017/05/rr-21240-r.jpg?w=780",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "name": "Diane",
+    "image": "https://pmctvline2.files.wordpress.com/2017/06/twin-peaks.jpg?w=620",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "name": "Log Lady (Margaret Lanterman)",
+    "image": "https://vignette.wikia.nocookie.net/twinpeaks/images/4/4f/Shot0003.png/revision/latest?cb=20140210120651",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "name": "Laura Palmer",
+    "image": "http://media.comicbook.com/2017/02/laura-palmer-234434.jpg",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "name": "Sarah Palmer",
+    "image": "https://i.kinja-img.com/gawker-media/image/upload/s--ijDI-nqf--/c_scale,f_auto,fl_progressive,q_80,w_800/mqgrxjsyys0rydniukx2.png",
+    "clicked": false
+  }
+]

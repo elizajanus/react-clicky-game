@@ -1,0 +1,41 @@
+.App {
+  text-align: center;
+  font-family: 'PT Sans Caption', sans-serif;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 20%;
+  color: white;
+}
+#instructions {
+  float: center;
+  position: relative;
+  top: 5px;
+}
+#navcolor {
+  background: #222;
+}
+#score {
+  color: #dc143c;
+  margin: 10px;
+  font-size: 48px;
+}
+#navscore {
+  margin: 10px;
+}
+#title {
+  color: white;
+  margin: 30px;
+  font-size: 32px;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
